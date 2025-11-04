@@ -18,6 +18,6 @@ go get github.com/bogdanfinn/tls-client/profiles
 go get github.com/PuerkitoBio/goquery
 go mod tidy
 ```
-**3.** Replaced `SHARE_LINK_HERE` in `main.go` with a real shared video link.
+**3.** Replace `SHARE_LINK_HERE` in `main.go` with a real shared video link.
 ### License
 MIT License © 2025 Kalen McMillan
